@@ -213,6 +213,18 @@ Languages I use most:
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
+<!-- ⚡ DIVIDER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+<p align="center" style="color:#a855f7;">
+🎧 coding in rhythm
+</p>
+<p align="center">
+  <img src="./assets/audio.gif" width="80%" />
+</p>
 
 <!-- 🌌 FOOTER -->
 

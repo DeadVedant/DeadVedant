@@ -224,7 +224,8 @@ Languages I use most:
 </p>
 
 <p align="center">
-  <img src="https://github.com/DeadVedant/DeadVedant/blob/main/audio.gif" width="25%" />
+  <img src="https://raw.githubusercontent.com/DeadVedant/DeadVedant/main/audio.gif" width="22%" style="margin-right:-4px;" />
+  <img src="https://raw.githubusercontent.com/DeadVedant/DeadVedant/main/audio.gif" width="22%" />
 </p>
 
 <!-- 🌌 FOOTER -->

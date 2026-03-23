@@ -219,13 +219,13 @@ Languages I use most:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
-<p align="center" style="color:#a855f7; font-size:14px;">
-🎧 coding in rhythm
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/DeadVedant/DeadVedant/main/audio.gif" width="22%" style="margin-right:-4px;" />
   <img src="https://raw.githubusercontent.com/DeadVedant/DeadVedant/main/audio.gif" width="22%" />
+</p>
+
+<p align="center" style="color:#a855f7; font-size:14px;">
+🎧 coding in rhythm
 </p>
 
 <!-- 🌌 FOOTER -->

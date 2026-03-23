@@ -223,7 +223,7 @@ Languages I use most:
 🎧 coding in rhythm
 </p>
 <p align="center">
-  <img src="./assets/audio.gif" width="80%" />
+  <img src="https://github.com/DeadVedant/DeadVedant/blob/main/audio.gif" width="80%" />
 </p>
 
 <!-- 🌌 FOOTER -->

@@ -18,6 +18,10 @@ Designer X Developer
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeadVedant&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
@@ -25,32 +29,21 @@ Designer X Developer
 
 - I design cinematic interfaces that feel alive  
 - Focused on motion, depth & immersive UX  
-- Turning ideas into experiences, not just apps  
+- Turning ideas into experiences 
 * ⚡ Glassmorphism • 🌌 Cinematic UI • 🎬 Motion Design • 💀 Dark UI Systems
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
-## 🚀 CORE EXPERIENCE
-
-### 🔥 QUICKPOLL
-
-- Built a cinematic polling system with real-time feel  
-- Designed immersive glass UI with animated starfield  
-- Focused on UX that feels interactive, not static  
-
-👉 https://github.com/DeadVedant/QuickPoll
-
+## 🚀 DEPLOYED SYSTEMS
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Quick-Poll&theme=tokyonight" />
 </p>
 
-### 🧪 EXPERIMENTAL LAB
-
-* QuickPoll Beta → next-gen UI interactions & motion systems
-
-👉 https://github.com/DeadVedant/QuickPoll-Beta
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=QuickPoll-Beta&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -81,7 +74,8 @@ Designer X Developer
 
 ## 🛠 TOOLS & ENVIRONMENT
 
-- VS Code (daily driver)  
+- VS Code (daily driver)
+- Antigravity (Vibe)
 - Git & GitHub  
 - Android Studio  
 
@@ -93,7 +87,8 @@ Designer X Developer
 
 - 🚀 QuickPoll V3 → real-time + advanced UI  
 - 🎨 Personal Design System → reusable components  
-- 🌐 Portfolio Website → cinematic experience  
+- 🌐 Portfolio Website → cinematic experience
+- 🌐 EduSphear 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -146,12 +141,52 @@ Languages I use most:
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeadVedant&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
+## ⚡ SYSTEM TERMINAL
+
+```bash
+> initializing vedant.exe
+> loading modules...
+> UI_ENGINE ✔
+> MOTION_SYSTEM ✔
+> DARK_MODE ✔
+> status: READY
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
 ## ⚡ FUN ZONE
 
 * 🌙 I design better at night
 * 🎬 Inspired by anime & cinematic visuals
 * 💀 Dark UI > Light UI
 * 🎧 Music + code = flow state
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+## 🧠 MORE ABOUT ME
+
+Freelancing
+- Graphic Designer (Canva , Photoshop)
+- Video Editing (After Effects, Premier Pro)
+
+My Type
+- Loves Anime
+- Loves Music and Songs
+- Chess
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+## 🐍 SYSTEM ACTIVITY
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -185,6 +220,23 @@ Languages I use most:
 <p align="center" style="color:#a855f7; font-size:14px;">
 🎧 coding in rhythm
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Now+Playing:+LoFi+Beats;Coding+Mode:+Activated;Focus:+100%25" />
+</p>
+## ⚠️ DO NOT CLICK
+
+<details>
+<summary>Access Restricted</summary>
+
+System logs:
+
+* Emotion Engine: ACTIVE
+* Creativity: UNSTABLE
+* Limits: REMOVED
+
+You are now inside the system.
+
+</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:a855f7&height=140&section=footer"/>

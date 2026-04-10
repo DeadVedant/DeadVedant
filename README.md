@@ -17,8 +17,6 @@ Designer X Developer
   <img src="https://readme-typing-svg.herokuapp.com?color=a855f7&size=22&center=true&vCenter=true&width=850&speed=40&pause=1000&lines=Hey+%F0%9F%91%8B+I%27m+Vedant!;Welcome+to+my+world;Designing+Interfaces+That+Feel+Alive;Cinematic+UI+%7C+Motion+Driven+UX;Building+Experiences%2C+Not+Just+Apps;QuickPoll+Universe+in+Progress;Dark+UI+%3E+Everything" />
 </p>
 
-<!-- ⚡ DIVIDER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
@@ -29,8 +27,6 @@ Designer X Developer
 - Focused on motion, depth & immersive UX  
 - Turning ideas into experiences, not just apps  
 * ⚡ Glassmorphism • 🌌 Cinematic UI • 🎬 Motion Design • 💀 Dark UI Systems
-
-<!-- ⚡ DIVIDER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -46,8 +42,6 @@ Designer X Developer
 
 👉 https://github.com/DeadVedant/QuickPoll
 
-<!-- ⚡ DIVIDER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
@@ -57,8 +51,6 @@ Designer X Developer
 * QuickPoll Beta → next-gen UI interactions & motion systems
 
 👉 https://github.com/DeadVedant/QuickPoll-Beta
-
-<!-- ⚡ DIVIDER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -72,8 +64,6 @@ Designer X Developer
 **Programming**
 - C++ • Python • Java  
 
-<!-- ⚡ DIVIDER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
@@ -85,8 +75,6 @@ Designer X Developer
 - Motion → After Effects, Premiere Pro  
 - Enhancement → Lightroom, Canva
 
-<!-- ⚡ DIVIDER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
@@ -96,8 +84,6 @@ Designer X Developer
 - VS Code (daily driver)  
 - Git & GitHub  
 - Android Studio  
-
-<!-- ⚡ DIVIDER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -109,8 +95,6 @@ Designer X Developer
 - 🎨 Personal Design System → reusable components  
 - 🌐 Portfolio Website → cinematic experience  
 
-<!-- ⚡ DIVIDER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
@@ -120,8 +104,6 @@ Designer X Developer
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadVedant&theme=tokyo-night&bg_color=00000000&hide_border=true&line=a855f7&point=ec4899" width="95%"/>
 </p>
-
-<!-- ⚡ DIVIDER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -138,8 +120,6 @@ Designer X Developer
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeadVedant&theme=tokyonight" />
 </p>
 
-<!-- ⚡ DIVIDER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
@@ -147,14 +127,12 @@ Designer X Developer
 ## 📊 LIVE SYSTEM DATA
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeadVedant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeadVedant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DeadVedant&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com?user=DeadVedant&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
-
-<!-- ⚡ DIVIDER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -165,13 +143,7 @@ Designer X Developer
 Languages I use most:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadVedant&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
-<!-- ⚡ DIVIDER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeadVedant&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ## ⚡ FUN ZONE
@@ -180,18 +152,6 @@ Languages I use most:
 * 🎬 Inspired by anime & cinematic visuals
 * 💀 Dark UI > Light UI
 * 🎧 Music + code = flow state
-
-<!-- ⚡ DIVIDER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
-</p>
-
-## ⚡ PHILOSOPHY
-
-> "Users don't remember features. They remember how it felt."
-
-<!-- ⚡ DIVIDER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -213,22 +173,18 @@ Languages I use most:
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-<!-- ⚡ DIVIDER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeadVedant/DeadVedant/main/audio.gif" width="22%" style="margin-right:-4px;" />
   <img src="https://raw.githubusercontent.com/DeadVedant/DeadVedant/main/audio.gif" width="22%" />
 </p>
 
 <p align="center" style="color:#a855f7; font-size:14px;">
 🎧 coding in rhythm
 </p>
-
-<!-- 🌌 FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:a855f7&height=140&section=footer"/>

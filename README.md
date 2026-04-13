@@ -51,22 +51,39 @@ Designer X Developer
 
 ## 💻 DEVELOPMENT STACK
 
-**Frontend**
-- HTML • CSS • JavaScript  
+<!-- FRONTEND -->
 
-**Programming**
-- C++ • Python • Java  
+### ⬢ FRONTEND
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-## 🎨 DESIGN MATRIX
+<!-- PROGRAMMING -->
 
-- UI/UX → Figma
-- Visual Design → Photoshop, Illustrator  
-- Motion → After Effects, Premiere Pro  
-- Enhancement → Lightroom, Canva
+### ⬢ PROGRAMMING
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,kotlin" />
+</p>
+
+<!-- TOOLS / DEV -->
+
+### ⬢ TOOLS & DEV
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,nodejs,androidstudio" />
+</p>
+
+<!-- DESIGN -->
+
+### ⬢ DESIGN
+
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,figma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" height="48" />
+  <img src="https://img.icons8.com/color/48/canva.png" height="48"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>

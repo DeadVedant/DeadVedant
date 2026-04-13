@@ -184,16 +184,15 @@ Languages I use most:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
-## 🧠 MORE ABOUT ME
+## 🧠 PERSONAL MODULE
 
-Freelancing
-- Graphic Designer (Canva , Photoshop)
-- Video Editing (After Effects, Premier Pro)
+**Freelance Systems**
+- 🎨 Graphic Design → Canva, Photoshop  
+- 🎬 Video Editing → After Effects, Premiere Pro  
 
-My Type
-- Loves Anime
-- Loves Music and Songs
-- Chess
+**Behavior Pattern**
+- 🎌 Anime-driven inspiration  
+- 🎧 Music = flow state  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>

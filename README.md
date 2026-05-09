@@ -19,6 +19,8 @@ Designer X Developer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeadVedant&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/DeadVedant?label=FOLLOWERS&style=for-the-badge&color=a855f7" />
+  <img src="https://img.shields.io/github/stars/DeadVedant?label=STARS&style=for-the-badge&color=a855f7" />
 </p>
 
 <p align="center">
@@ -37,12 +39,29 @@ Designer X Developer
 </p>
 
 ## 🚀 DEPLOYED SYSTEMS
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Quick-Poll&theme=tokyonight" />
+  <a href="https://github.com/DeadVedant/Volunteer-Link">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Volunteer-Link&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=QuickPoll-Beta&theme=tokyonight" />
+  <a href="https://github.com/DeadVedant/EduSphere">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=EduSphere&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DeadVedant/Quick-Poll">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Quick-Poll&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DeadVedant/QuickPoll-Beta">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=QuickPoll-Beta&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
@@ -105,7 +124,30 @@ Designer X Developer
 - 🚀 QuickPoll V3 → real-time + advanced UI  
 - 🎨 Personal Design System → reusable components  
 - 🌐 Portfolio Website → cinematic experience
-- 🌐 EduSphear 
+- 🌐 EduSphere 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+## 🗄️ CORE LANGUAGE VAULT
+
+<p align="center">
+  <a href="https://github.com/DeadVedant/Fun-With-IOT">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Fun-With-IOT&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DeadVedant/Python-Verse">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Python-Verse&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DeadVedant/Cpp-Verse">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Cpp-Verse&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DeadVedant/Kotlin-Playground">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Kotlin-Playground&theme=tokyonight" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -239,8 +281,8 @@ Languages I use most:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Now+Playing:+LoFi+Beats;Coding+Mode:+Activated;Focus:+100%25" />
 </p>
-## ⚠️ DO NOT CLICK
 
+## ⚠️ DO NOT CLICK
 <details>
 <summary>Access Restricted</summary>
 

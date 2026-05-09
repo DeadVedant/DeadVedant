@@ -32,10 +32,7 @@ Designer X Developer
 - I design cinematic interfaces that feel alive  
 - Focused on motion, depth & immersive UX  
 - Turning ideas into experiences 
-* ⚡ Glassmorphism
-* 🌌 Cinematic UI
-* 🎬 Motion Design
-* 💀 Dark UI Systems
+* ⚡ Glassmorphism • 🌌 Cinematic UI • 🎬 Motion Design • 💀 Dark UI Systems
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -234,6 +231,10 @@ Languages I use most:
 **Freelance Systems**
 - 🎨 Graphic Design → Canva, Photoshop  
 - 🎬 Video Editing → After Effects, Premiere Pro  
+
+**Behavior Pattern**
+- 🎌 Anime-driven inspiration  
+- 🎧 Music = flow state  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>

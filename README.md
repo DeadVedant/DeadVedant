@@ -239,7 +239,7 @@ Languages I use most:
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vedantbakre75@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

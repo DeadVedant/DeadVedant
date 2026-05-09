@@ -44,9 +44,6 @@ Designer X Developer
   <a href="https://github.com/DeadVedant/Volunteer-Link">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Volunteer-Link&theme=tokyonight" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/DeadVedant/EduSphere">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=EduSphere&theme=tokyonight" />
   </a>
@@ -56,9 +53,6 @@ Designer X Developer
   <a href="https://github.com/DeadVedant/Quick-Poll">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Quick-Poll&theme=tokyonight" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/DeadVedant/QuickPoll-Beta">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=QuickPoll-Beta&theme=tokyonight" />
   </a>
@@ -75,7 +69,7 @@ Designer X Developer
 ### ⬢ FRONTEND
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 <!-- PROGRAMMING -->
@@ -91,7 +85,7 @@ Designer X Developer
 ### ⬢ TOOLS & DEV
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,nodejs,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=vscode,nodejs,androidstudio,git,github,firebase,postgres" />
 </p>
 
 <!-- DESIGN -->
@@ -103,17 +97,6 @@ Designer X Developer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" height="48" />
   <img src="https://img.icons8.com/color/48/canva.png" height="48"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
-</p>
-
-## 🛠 TOOLS & ENVIRONMENT
-
-- VS Code (daily driver)
-- Antigravity (Vibe)
-- Git & GitHub  
-- Android Studio  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -226,19 +209,7 @@ Languages I use most:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
-## 🧠 PERSONAL MODULE
 
-**Freelance Systems**
-- 🎨 Graphic Design → Canva, Photoshop  
-- 🎬 Video Editing → After Effects, Premiere Pro  
-
-**Behavior Pattern**
-- 🎌 Anime-driven inspiration  
-- 🎧 Music = flow state  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
-</p>
 
 ## 🐍 SYSTEM ACTIVITY
 
@@ -264,6 +235,12 @@ Languages I use most:
   </a>
   <a href="https://discord.com/users/deadskull3">
     <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email_Me-a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 

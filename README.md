@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:9333ea,100:020617&height=140&section=header&text=Dead%20Vedant&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeadVedant&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/DeadVedant?label=FOLLOWERS&style=for-the-badge&color=a855f7" />
+  <img src="https://img.shields.io/github/stars/DeadVedant?label=STARS&style=for-the-badge&color=a855f7" />
+</p>
+<p align="center">
   <img src="./Lofi%20Vibe.jpg" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
 
 <h1 align="center" style="color:#ffffff; text-shadow:0 0 20px rgba(168,85,247,0.7);">
@@ -15,12 +20,6 @@ Designer X Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=a855f7&size=22&center=true&vCenter=true&width=850&speed=40&pause=1000&lines=Hey+%F0%9F%91%8B+I%27m+Vedant!;Welcome+to+my+world;Designing+Interfaces+That+Feel+Alive;Cinematic+UI+%7C+Motion+Driven+UX;Building+Experiences%2C+Not+Just+Apps;QuickPoll+Universe+in+Progress;Dark+UI+%3E+Everything" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeadVedant&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/DeadVedant?label=FOLLOWERS&style=for-the-badge&color=a855f7" />
-  <img src="https://img.shields.io/github/stars/DeadVedant?label=STARS&style=for-the-badge&color=a855f7" />
 </p>
 
 <p align="center">

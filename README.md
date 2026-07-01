@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:9333ea,100:020617&height=140&section=header&text=Dead%20Vedant&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:568a9f,50:2b4c59,100:020617&height=140&section=header&text=Dead%20Vedant&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeadVedant&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/DeadVedant?label=FOLLOWERS&style=for-the-badge&color=a855f7" />
-  <img src="https://img.shields.io/github/stars/DeadVedant?label=STARS&style=for-the-badge&color=a855f7" />
+  <img src="https://komarev.com/ghpvc/?username=DeadVedant&label=PROFILE+VIEWS&color=568a9f&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/DeadVedant?label=FOLLOWERS&style=for-the-badge&color=568a9f" />
+  <img src="https://img.shields.io/github/stars/DeadVedant?label=STARS&style=for-the-badge&color=568a9f" />
 </p>
 <p align="center">
-  <img src="./Lofi%20Vibe.jpg" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
+  <img src="./new_banner.png" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(86,138,159,0.3);" />
 
-<h1 align="center" style="color:#ffffff; text-shadow:0 0 20px rgba(168,85,247,0.7);">
+<h1 align="center" style="color:#ffffff; text-shadow:0 0 20px rgba(86,138,159,0.7);">
 💀 VEDANT
 </h1>
 
-<h3 align="center" style="color:#c084fc;">
+<h3 align="center" style="color:#8bb4c4;">
 Designer X Developer
 </h3>
 
 <p align="center"><i>"Aesthetics Matters to Me!"</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=a855f7&size=22&center=true&vCenter=true&width=850&speed=40&pause=1000&lines=Hey+%F0%9F%91%8B+I%27m+Vedant!;Welcome+to+my+world;Designing+Interfaces+That+Feel+Alive;Cinematic+UI+%7C+Motion+Driven+UX;Building+Experiences%2C+Not+Just+Apps;QuickPoll+Universe+in+Progress;Dark+UI+%3E+Everything" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=568a9f&size=22&center=true&vCenter=true&width=850&speed=40&pause=1000&lines=Hey+%F0%9F%91%8B+I%27m+Vedant!;Welcome+to+my+world;Designing+Interfaces+That+Feel+Alive;Cinematic+UI+%7C+Motion+Driven+UX;Building+Experiences%2C+Not+Just+Apps;QuickPoll+Universe+in+Progress;Dark+UI+%3E+Everything" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## 🧠 ABOUT ME
@@ -34,7 +34,7 @@ Designer X Developer
 * ⚡ Glassmorphism • 🌌 Cinematic UI • 🎬 Motion Design • 💀 Dark UI Systems
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## 🚀 DEPLOYED SYSTEMS
@@ -58,7 +58,7 @@ Designer X Developer
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## 💻 DEVELOPMENT STACK
@@ -98,7 +98,7 @@ Designer X Developer
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## 🛠 CURRENTLY BUILDING
@@ -109,7 +109,7 @@ Designer X Developer
 - 🌐 EduSphere 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## 🗄️ CORE LANGUAGE VAULT
@@ -132,17 +132,17 @@ Designer X Developer
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## 📈 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadVedant&theme=tokyo-night&bg_color=00000000&hide_border=true&line=a855f7&point=ec4899" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadVedant&theme=tokyo-night&bg_color=00000000&hide_border=true&line=568a9f&point=8da9c4" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## ⚡ SYSTEM STATS
@@ -157,7 +157,7 @@ Designer X Developer
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## 📊 LIVE SYSTEM DATA
@@ -171,7 +171,7 @@ Designer X Developer
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## 💻 LANGUAGE MATRIX
@@ -194,7 +194,7 @@ Languages I use most:
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## ⚡ FUN ZONE
@@ -205,7 +205,7 @@ Languages I use most:
 * 🎧 Music + code = flow state
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 
@@ -217,7 +217,7 @@ Languages I use most:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 ## 🤝 CONNECT
@@ -239,23 +239,23 @@ Languages I use most:
 
 <p align="center">
   <a href="mailto:vedantbakre75@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_Me-568a9f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:568a9f,100:8da9c4&height=2"/>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DeadVedant/DeadVedant/main/audio.gif" width="22%" />
 </p>
 
-<p align="center" style="color:#a855f7; font-size:14px;">
+<p align="center" style="color:#568a9f; font-size:14px;">
 🎧 coding in rhythm
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Now+Playing:+LoFi+Beats;Coding+Mode:+Activated;Focus:+100%25" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=568a9f&center=true&vCenter=true&lines=Now+Playing:+LoFi+Beats;Coding+Mode:+Activated;Focus:+100%25" />
 </p>
 
 ## ⚠️ DO NOT CLICK
@@ -273,5 +273,5 @@ You are now inside the system.
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:a855f7&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:568a9f&height=140&section=footer"/>
 </p>

@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:568a9f,50:2b4c59,100:020617&height=140&section=header&text=Dead%20Vedant&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeadVedant&label=PROFILE+VIEWS&color=568a9f&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/DeadVedant?label=FOLLOWERS&style=for-the-badge&color=568a9f" />
-  <img src="https://img.shields.io/github/stars/DeadVedant?label=STARS&style=for-the-badge&color=568a9f" />
+  <img src="https://komarev.com/ghpvc/?username=VedantBakre&label=PROFILE+VIEWS&color=568a9f&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/VedantBakre?label=FOLLOWERS&style=for-the-badge&color=568a9f" />
+  <img src="https://img.shields.io/github/stars/VedantBakre?label=STARS&style=for-the-badge&color=568a9f" />
 </p>
 <p align="center">
   <img src="./new_banner.png" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(86,138,159,0.3);" />
@@ -40,20 +40,20 @@ Designer X Developer
 ## 🚀 DEPLOYED SYSTEMS
 
 <p align="center">
-  <a href="https://github.com/DeadVedant/Volunteer-Link">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Volunteer-Link&theme=tokyonight" />
+  <a href="https://github.com/VedantBakre/Volunteer-Link">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Volunteer-Link&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DeadVedant/EduSphere">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=EduSphere&theme=tokyonight" />
+  <a href="https://github.com/VedantBakre/EduSphere">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=EduSphere&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DeadVedant/Quick-Poll">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Quick-Poll&theme=tokyonight" />
+  <a href="https://github.com/VedantBakre/Quick-Poll">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Quick-Poll&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DeadVedant/QuickPoll-Beta">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=QuickPoll-Beta&theme=tokyonight" />
+  <a href="https://github.com/VedantBakre/QuickPoll-Beta">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=QuickPoll-Beta&theme=tokyonight" />
   </a>
 </p>
 
@@ -115,19 +115,19 @@ Designer X Developer
 ## 🗄️ CORE LANGUAGE VAULT
 
 <p align="center">
-  <a href="https://github.com/DeadVedant/Fun-With-IOT">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Fun-With-IOT&theme=tokyonight" />
+  <a href="https://github.com/VedantBakre/Fun-With-IOT">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Fun-With-IOT&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DeadVedant/Python-Verse">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Python-Verse&theme=tokyonight" />
+  <a href="https://github.com/VedantBakre/Python-Verse">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Python-Verse&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/DeadVedant/Cpp-Verse">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Cpp-Verse&theme=tokyonight" />
+  <a href="https://github.com/VedantBakre/Cpp-Verse">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Cpp-Verse&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DeadVedant/Kotlin-Playground">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DeadVedant&repo=Kotlin-Playground&theme=tokyonight" />
+  <a href="https://github.com/VedantBakre/Kotlin-Playground">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Kotlin-Playground&theme=tokyonight" />
   </a>
 </p>
 
@@ -138,7 +138,7 @@ Designer X Developer
 ## 📈 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadVedant&theme=tokyo-night&bg_color=00000000&hide_border=true&line=568a9f&point=8da9c4" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantBakre&theme=tokyo-night&bg_color=00000000&hide_border=true&line=568a9f&point=8da9c4" width="95%"/>
 </p>
 
 <p align="center">
@@ -148,12 +148,12 @@ Designer X Developer
 ## ⚡ SYSTEM STATS
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeadVedant&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VedantBakre&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeadVedant&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeadVedant&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VedantBakre&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VedantBakre&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -163,11 +163,11 @@ Designer X Developer
 ## 📊 LIVE SYSTEM DATA
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeadVedant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VedantBakre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DeadVedant&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com?user=VedantBakre&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 <p align="center">
@@ -179,7 +179,7 @@ Designer X Developer
 Languages I use most:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeadVedant&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VedantBakre&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ## ⚡ SYSTEM TERMINAL
@@ -223,7 +223,7 @@ Languages I use most:
 ## 🤝 CONNECT
 
 <p align="center">
-  <a href="https://github.com/DeadVedant">
+  <a href="https://github.com/VedantBakre">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.linkedin.com/in/vedant-bakre-985b72388/">
@@ -248,7 +248,7 @@ Languages I use most:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeadVedant/DeadVedant/main/audio.gif" width="22%" />
+  <img src="https://raw.githubusercontent.com/VedantBakre/VedantBakre/main/audio.gif" width="22%" />
 </p>
 
 <p align="center" style="color:#568a9f; font-size:14px;">

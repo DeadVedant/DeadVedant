@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/VedantBakre?label=STARS&style=for-the-badge&color=a855f7" />
 </p>
 <p align="center">
-  <img src="./Lofi%20Vibe.jpg" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
+  <img src="./Lofi%20Vibe.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
 
 <h1 align="center" style="color:#ffffff; text-shadow:0 0 20px rgba(168,85,247,0.7);">
 💀 VEDANT BAKRE
@@ -34,6 +34,8 @@ I am a passionate **Frontend Developer & Graphic Designer** dedicated to craftin
 * 💀 **Dark UI Systems** — Architecting elegant, high-contrast dark themes with vibrant accents.
 * ⚡ **Performance & UX** — Blending modern tech stacks with fluid micro-interactions for seamless usability.
 * 🎨 **Visual Design** — Utilizing Photoshop, After Effects, and Figma to bridge the gap between design and code.
+
+My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLCkOGPOh/view?usp=sharing">VEDANT BAKRE.pdf</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -105,10 +107,9 @@ I am a passionate **Frontend Developer & Graphic Designer** dedicated to craftin
 
 ## 🛠 CURRENTLY BUILDING
 
-- 🚀 QuickPoll V3 → real-time + advanced UI  
-- 🎨 Personal Design System → reusable components  
-- 🌐 Portfolio Website → cinematic experience
-- 🌐 EduSphere 
+* 🚀 QuickPoll Backend
+* 🎨 My Anime Verse
+* 🌐 Portfolio Website → cinematic experience
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
@@ -130,6 +131,11 @@ I am a passionate **Frontend Developer & Graphic Designer** dedicated to craftin
   </a>
   <a href="https://github.com/VedantBakre/Kotlin-Playground">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Kotlin-Playground&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/VedantBakre/Java-Hub">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Java-Hub&theme=tokyonight" />
   </a>
 </p>
 
@@ -184,37 +190,9 @@ Languages I use most:
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VedantBakre&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
-## ⚡ SYSTEM TERMINAL
-
-```bash
-> initializing vedant.exe
-> loading modules...
-> UI_ENGINE ✔
-> MOTION_SYSTEM ✔
-> DARK_MODE ✔
-> status: READY
-```
-
-<p align="center">
-  <img src="./Setup.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
-
-## ⚡ FUN ZONE
-
-* 🌙 I design better at night
-* 🎬 Inspired by anime & cinematic visuals
-* 💀 Dark UI > Light UI
-* 🎧 Music + code = flow state
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
-</p>
-
-
 
 ## 🐍 SYSTEM ACTIVITY
 
@@ -274,31 +252,38 @@ Languages I use most:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
+## ⚡ FUN ZONE
+
+* 🌙 I design better at night
+* 🎬 Inspired by anime & cinematic visuals
+* 💀 Dark UI > Light UI
+* 🎧 Music + code = flow state
+
+## ⚡ SYSTEM TERMINAL
+
+```bash
+> initializing vedant.exe
+> loading modules...
+> UI_ENGINE ✔
+> MOTION_SYSTEM ✔
+> DARK_MODE ✔
+> status: READY
+```
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VedantBakre/VedantBakre/main/audio.gif" width="22%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
 <p align="center" style="color:#a855f7; font-size:14px;">
 🎧 coding in rhythm
 </p>
+
+<p align="center">
+  <img src="./Setup.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Now+Playing:+LoFi+Beats;Coding+Mode:+Activated;Focus:+100%25" />
 </p>
-
-## ⚠️ DO NOT CLICK
-<details>
-<summary>Access Restricted</summary>
-
-System logs:
-
-* Emotion Engine: ACTIVE
-* Creativity: UNSTABLE
-* Limits: REMOVED
-
-You are now inside the system.
-
-</details>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:a855f7&height=140&section=footer"/>
 </p>

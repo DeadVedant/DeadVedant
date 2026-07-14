@@ -56,15 +56,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
   <a href="https://github.com/VedantBakre/Quick-Poll">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Quick-Poll&theme=tokyonight" />
   </a>
-  <a href="https://github.com/VedantBakre/QuickPoll-Beta">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=QuickPoll-Beta&theme=tokyonight" />
-  </a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
-</p>
-
 ## 💻 DEVELOPMENT STACK
 
 <!-- FRONTEND -->

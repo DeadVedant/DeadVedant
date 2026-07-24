@@ -57,6 +57,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Quick-Poll&theme=tokyonight" />
   </a>
 </p>
+
 ## 💻 DEVELOPMENT STACK
 
 <!-- FRONTEND -->
@@ -110,24 +111,22 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ## 🗄️ CORE LANGUAGE VAULT
 
 <p align="center">
-  <a href="https://github.com/VedantBakre/Fun-With-IOT">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Fun-With-IOT&theme=tokyonight" />
+  <a href="https://github.com/VedantBakre/Cpp-Verse">
+    <img src="https://img.shields.io/badge/Cpp--Verse-C%2B%2B%20Lab%20%26%20Practice-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </a>
+  <a href="https://github.com/VedantBakre/Java-Hub">
+    <img src="https://img.shields.io/badge/Java--Hub-Core%20%26%20Advanced%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </a>
   <a href="https://github.com/VedantBakre/Python-Verse">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Python-Verse&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/Python--Verse-Practicals%20%26%20Games-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/VedantBakre/Cpp-Verse">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Cpp-Verse&theme=tokyonight" />
-  </a>
   <a href="https://github.com/VedantBakre/Kotlin-Playground">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Kotlin-Playground&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/Kotlin--Playground-Kotlin%20Basics%20%26%20Logic-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   </a>
-</p>
-<p align="center">
-  <a href="https://github.com/VedantBakre/Java-Hub">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Java-Hub&theme=tokyonight" />
+  <a href="https://github.com/VedantBakre/Fun-With-IOT">
+    <img src="https://img.shields.io/badge/Fun--With--IOT-Arduino%20%26%20Embedded-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
 </p>
 

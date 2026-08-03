@@ -211,18 +211,6 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
-## 💻 LANGUAGE MATRIX
-
-Languages I use most:
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VedantBakre&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&v=2" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
-</p>
-
 ## 🐍 SYSTEM ACTIVITY
 
 <p align="center">

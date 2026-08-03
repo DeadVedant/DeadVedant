@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/VedantBakre?label=STARS&style=for-the-badge&color=a855f7" />
 </p>
 <p align="center">
-  <img src="./Lofi%20Vibe.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
+  <img src="./assests/Lofi%20Vibe.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
 
 <h1 align="center" style="color:#ffffff; text-shadow:0 0 20px rgba(168,85,247,0.7);">
 💀 VEDANT BAKRE
@@ -43,20 +43,58 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 
 ## 🚀 DEPLOYED SYSTEMS
 
-<p align="center">
-  <a href="https://github.com/VedantBakre/Volunteer-Link">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Volunteer-Link&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/VedantBakre/EduSphere">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=EduSphere&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VedantBakre/Quick-Poll">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Quick-Poll&theme=tokyonight" />
-  </a>
-</p>
+<div align="center">
+  <table border="0" style="border: none;">
+    <tr>
+      <td align="center" width="50%" style="border: none; padding-bottom: 20px;">
+        <a href="https://github.com/VedantBakre/Volunteer-Link">
+          <img src="./assests/volunteer-link.png" width="100%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(168,85,247,0.3);" />
+        </a>
+        <br /><br />
+        <h3>🤝 Volunteer Link</h3>
+        <p>Connecting volunteers with local opportunities.</p>
+        <a href="https://github.com/VedantBakre/Volunteer-Link">
+          <img src="https://img.shields.io/badge/View_Project-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="50%" style="border: none; padding-bottom: 20px;">
+        <a href="https://github.com/VedantBakre/EduSphere">
+          <img src="./assests/edusphere.png" width="100%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(168,85,247,0.3);" />
+        </a>
+        <br /><br />
+        <h3>🎓 EduSphere</h3>
+        <p>A modern centralized education platform.</p>
+        <a href="https://github.com/VedantBakre/EduSphere">
+          <img src="https://img.shields.io/badge/View_Project-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="border: none; padding-bottom: 20px;">
+        <a href="https://github.com/VedantBakre/Quick-Poll">
+          <img src="./assests/quickpoll.png" width="100%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(168,85,247,0.3);" />
+        </a>
+        <br /><br />
+        <h3>⚡ Quick Poll</h3>
+        <p>Real-time polling and decision-making made easy.</p>
+        <a href="https://github.com/VedantBakre/Quick-Poll">
+          <img src="https://img.shields.io/badge/View_Project-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="50%" style="border: none; padding-bottom: 20px;">
+        <a href="https://github.com/VedantBakre/AnimeArchive">
+          <img src="./assests/anime-archive.png" width="100%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(168,85,247,0.3);" />
+        </a>
+        <br /><br />
+        <h3>🎬 Anime Archive</h3>
+        <p>Your ultimate destination to explore and track anime.</p>
+        <a href="https://github.com/VedantBakre/AnimeArchive">
+          <img src="https://img.shields.io/badge/View_Project-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 💻 DEVELOPMENT STACK
 
@@ -147,12 +185,12 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ## ⚡ SYSTEM STATS
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VedantBakre&theme=tokyonight" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VedantBakre&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VedantBakre&theme=tokyonight" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
@@ -162,7 +200,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ## 📊 LIVE SYSTEM DATA
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VedantBakre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VedantBakre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&v=2" />
 </p>
 
 <p align="center">
@@ -178,7 +216,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 Languages I use most:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VedantBakre&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VedantBakre&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&v=2" />
 </p>
 
 <p align="center">
@@ -188,7 +226,7 @@ Languages I use most:
 ## 🐍 SYSTEM ACTIVITY
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="./snake-output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -270,7 +308,7 @@ Languages I use most:
 </p>
 
 <p align="center">
-  <img src="./Setup.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
+  <img src="./assests/Setup.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Now+Playing:+LoFi+Beats;Coding+Mode:+Activated;Focus:+100%25" />

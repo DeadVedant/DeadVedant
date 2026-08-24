@@ -200,7 +200,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ## 📊 LIVE SYSTEM DATA
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VedantBakre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&v=2" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=VedantBakre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&v=2" />
 </p>
 
 <p align="center">
